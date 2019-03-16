@@ -1,0 +1,8 @@
+numpy==1.14.2
+tensorflow
+keras==2.1.5
+cmake
+dlib
+imageio==2.4.0
+imageio-ffmpeg
+face_recognition
